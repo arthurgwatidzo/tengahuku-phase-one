@@ -1,0 +1,39 @@
+
+
+Breakeven Wording
+Break-even analysis has been used by Rooster King to detemernine, the number of units that need
+to be sold per production cycle per 1000 birds.
+This analysis does not reflecty payback period, the time it takes to receover an investment. 
+From the breakeven chart in section 4.9.1, 301  birds  per every 1000 birds will need to be sold with
+an objective of covering the costs of doing business.
+
+
+4.9 first daigram shows the breakeven numerical results, at the unit price of US$7 per bird.
+
+
+4.7 Payback period
+The payback period accounting tool has been used to establish the  length of time (measured in years and months)
+required to receover the cost of the broiler chicken investment.
+From the results above, the payback period, best case is 7 months if the product is sold at US$9.00 per bird.
+Normal case payback period is 10 months if each bird is sold at US$7.00
+Worst case scenario is a payback period of 1 year 4 months at US8.00 per bird.
+==> ***Change the labels for the  payback period around
+
+
+4.5 Projected Income (from November 2020 to October 2023) **Diagram needs to be amended*** some columns were left out
+The calculations were done, assuming that 42,000 birds will be reared by November 2020, with a steady increase of 2250 birds per production cycle.
+=>Adjust the cycle from | 1 February 2019 to 31 January 2020 |  1 February 2020 to 31 January 2021 |  1 February 2021 to 31 January 2022 |   1 February 2022 to 31 January 2023|  1 February 2022 to 31 January 2023 |   1 February 2023 to 31 January 2024
+=> Then give the explanation****
+
+
+Net Present Value (NPV)
+=> Add to the Acronyms
+is the difference between the present value of cash inflows and the present value of cash outflows over a period of time.
+ NPV is used in capital budgeting and investment planning to analyze the profitability of a projected investment or project.
+ NPV will indicate how much value an investement or project add to Rooster King. The computed net present value in 5 years(by 2023) is US$2,559,975.00 (which is greater than US$0.00)
+ which reflects that the investment would add value to Rooster King.
+ 
+ PS: Work down the initial investment backwards to US$128,600.00
+
+
+
