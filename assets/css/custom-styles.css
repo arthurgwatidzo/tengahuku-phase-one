@@ -120,4 +120,10 @@ html, body {
 }
 
 
+.div-about-us-main-product-content{
+  display: flex;
+  flex-flow: row wrap;
+
+}
+
 
